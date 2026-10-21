@@ -1,0 +1,25 @@
+{
+  "general": {
+    "corte": "13/10/2026",
+    "avance": 52,
+    "costo_directo": "$929.7 M",
+    "ejercido_directo": "$247.8 M",
+    "ejercido_pct": 26.7,
+    "moneda": "MXN sin IVA"
+  },
+  "edificios": {
+    "1":  {"avance": 95},
+    "2":  {"avance": 46},
+    "4":  {"avance": 4,  "comensales": 104},
+    "5":  {"avance": 48},
+    "6":  {"avance": 48},
+    "7":  {"avance": 48},
+    "8":  {"avance": 48},
+    "9":  {"avance": 42, "comensales": 92},
+    "10": {"avance": 38},
+    "11": {"avance": 43, "capacidad": 250},
+    "12": {"avance": 0},
+    "13": {"avance": 0},
+    "U":  {"avance": 78}
+  }
+}
